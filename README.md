@@ -1,6 +1,6 @@
 # CPU-Design-VHDL
 
-A simple CPU design implemented in VHDL as a final project for Digital Logic Design course.
+A simple CPU design implemented in VHDL as a final project for Digital systems analysis course.
 
 ## Components
 - **ALU** – Arithmetic Logic Unit
