@@ -1,0 +1,16 @@
+isim/
+_xmsgs/
+iseconfig/
+xst/
+ipcore_dir/
+*.log
+*.wdb
+*.exe
+*.obj
+*.c
+*.didat
+*.vdb
+*.xreport
+*.cmd
+fuseRelaunch.cmd
+xilinxsim.ini
