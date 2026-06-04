@@ -10,7 +10,7 @@ A simple CPU design implemented in VHDL as a final project for Digital systems a
 - **Accumulator** – Stores computation results
 
 ## Simulation
-Simulated using ModelSim.
+Simulated using Xilinx ISE Design Suite.
 
 ## Screenshots
 ### CPU Execution Waveform
